@@ -3,8 +3,11 @@
 ## System Design
 
 [The Solved Twitter Design](http://www.hiredintech.com/data/uploads/hiredintech_system_design_the_twitter_problem_beta.pdf)
+
 [HiredInTech] (http://www.hiredintech.com/system-design/)
+
 [HighScalability](http://highscalability.com/start-here/)
+
 [filipegoncalves](https://github.com/filipegoncalves/interview-questions/tree/master/systems_design)
 
 ## HTML/CSS
