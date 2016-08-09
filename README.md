@@ -47,3 +47,5 @@ Stoplight
 [100 DAYS CSS CHALLENGE] (http://100dayscss.com/)
 
 [Interview Questions and Exercises About CSS] (https://css-tricks.com/interview-questions-css/)
+
+[Awesome CSS Demos](http://codepen.io/jaymaymo/pen/QNEgjr)
