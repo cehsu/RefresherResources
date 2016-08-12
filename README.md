@@ -1,13 +1,15 @@
 # RefresherResources
 
 ## Data Structures & Algorithms
-[checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+[checkcheckzz/interview](https://github.com/checkcheckzz/interview)
 
 [Google Optimization Tools](https://developers.google.com/optimization/)
 
 [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/Graphs/StronglyConnectedComponents.html)
 
 ## System Design
+
+[checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 
 [The Solved Twitter Design](http://www.hiredintech.com/data/uploads/hiredintech_system_design_the_twitter_problem_beta.pdf)
 
