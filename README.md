@@ -21,6 +21,14 @@
 
 ## HTML/CSS
 
+[YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+
+[Beyond jQuery](https://github.com/Beyond-jQuery/exercise)
+
+[You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+[Reimplementing Parts of jQuery...for funsies!](https://github.com/yanarchy/yQuery)
+
 [Netflix Star Rater](http://rog.ie/blog/css-star-rater)
 
 [Autocomplete](https://codepen.io/samiconductor/pen/ogcbB)
