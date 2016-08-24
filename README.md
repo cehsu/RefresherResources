@@ -9,6 +9,8 @@
 
 [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/Graphs/StronglyConnectedComponents.html)
 
+[CS in JS](https://github.com/benoitvallon/computer-science-in-javascript)
+
 ## System Design
 
 [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
