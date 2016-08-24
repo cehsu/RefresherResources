@@ -6,7 +6,7 @@
 
 [Interactive Python]	(http://interactivepython.org/runestone/static/pythonds/index.html)
 
-[Brian Holt]	(http://btholt.github.io/four-semesters-of-cs/)
+[Brian Holt: Five Semesters of CS in 4 hours]	(http://btholt.github.io/four-semesters-of-cs/)
 
 [Coursera]	(https://www.coursera.org/specializations/data-structures-algorithms)
 
