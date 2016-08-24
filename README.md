@@ -1,6 +1,15 @@
 # RefresherResources
 
 ## Data Structures & Algorithms
+
+[Rosalind]	(http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
+
+[Interactive Python]	(http://interactivepython.org/runestone/static/pythonds/index.html)
+
+[Brian Holt]	(http://btholt.github.io/four-semesters-of-cs/)
+
+[Coursera]	(https://www.coursera.org/specializations/data-structures-algorithms)
+
 [Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Quicksort#JavaScript)
 
 [checkcheckzz/interview](https://github.com/checkcheckzz/interview)
