@@ -35,7 +35,7 @@
 
 [Autocomplete](https://codepen.io/samiconductor/pen/ogcbB)
 
-[Spiral Print](http://bl.ocks.org/dlwjiang/bb75c89a2ce92cbbd909)
+[Spiral Print](https://gist.github.com/dlwjiang/bb75c89a2ce92cbbd909)
 
 [Displaying data fetched from an API] (https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/)
 
