@@ -77,3 +77,8 @@ Stoplight
 [Interview Questions and Exercises About CSS] (https://css-tricks.com/interview-questions-css/)
 
 [Awesome CSS Demos](http://codepen.io/jaymaymo/pen/QNEgjr)
+
+##Database
+[MySQL tuning](http://code.tutsplus.com/tutorials/writing-blazing-fast-mysql-queries--cms-25085)
+
+[MySQL performance tips](http://www.infoworld.com/article/2616674/database-administration/10-essential-performance-tips-for-mysql.html?page=3)
