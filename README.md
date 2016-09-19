@@ -1,6 +1,11 @@
 # RefresherResources
 
+## All of the above
+[Haseeb Qureshi](http://haseebq.com/)
+
 ## Data Structures & Algorithms
+
+[Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms#)
 
 [Rosalind]	(http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
 
