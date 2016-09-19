@@ -84,6 +84,15 @@ Stoplight
 [Awesome CSS Demos](http://codepen.io/jaymaymo/pen/QNEgjr)
 
 ##Database
+
+[The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+
+[A Field Guide to Modern Data Stores](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=160912&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
+
 [MySQL tuning](http://code.tutsplus.com/tutorials/writing-blazing-fast-mysql-queries--cms-25085)
 
 [MySQL performance tips](http://www.infoworld.com/article/2616674/database-administration/10-essential-performance-tips-for-mysql.html?page=3)
+
+[Oracle SQL Tutorial Contents](http://www.oracle-dba-online.com/sql/oracle_sql_tutorial.htm)
+
+[SQL Tutorials and Courses](https://hackr.io/tutorials/sql)
