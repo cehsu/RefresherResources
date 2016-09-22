@@ -7,6 +7,8 @@
 
 [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms#)
 
+[Algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm)
+
 [Rosalind]	(http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
 
 [Interactive Python]	(http://interactivepython.org/runestone/static/pythonds/index.html)
