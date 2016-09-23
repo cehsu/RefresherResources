@@ -5,6 +5,10 @@
 
 ## Data Structures & Algorithms
 
+[code-problems](https://github.com/blakeembrey/code-problems)
+
+[Interview Cake] (https://www.interviewcake.com/)
+
 [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms#)
 
 [Algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm)
