@@ -5,13 +5,13 @@
 
 ## Data Structures & Algorithms
 
-[code-problems](https://github.com/blakeembrey/code-problems)
+[code-problems*](https://github.com/blakeembrey/code-problems)
 
-[Interview Cake] (https://www.interviewcake.com/)
+[Interview Cake*] (https://www.interviewcake.com/)
 
 [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms#)
 
-[Algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm)
+[Algorithmofanalgorithm*](https://github.com/yilenpan/algorithmofanalgorithm)
 
 [Rosalind]	(http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
 
@@ -42,6 +42,14 @@
 [HighScalability](http://highscalability.com/start-here/)
 
 [filipegoncalves](https://github.com/filipegoncalves/interview-questions/tree/master/systems_design)
+
+##JS
+[A re-introduction to JavaScript (JS tutorial)*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+[Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+[You Don't Know JS](http://bonsaiden.github.io/JavaScript-Garden/)
+
 
 ## HTML/CSS
 
