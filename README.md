@@ -63,6 +63,12 @@
 
 [Netflix Star Rater](http://rog.ie/blog/css-star-rater)
 
+[airbnb star rater](http://nerds.airbnb.com/quick-tip-making-star-ratings-with-one-image/)
+
+[Font Awesome Star Ratings](http://bootsnipp.com/snippets/featured/font-awesome-star-ratings)
+
+[Percentage-based star rating-sprite example](https://codepen.io/Bluetidepro/pen/GkpEa)
+
 [Autocomplete](https://codepen.io/samiconductor/pen/ogcbB)
 
 [Spiral Print](https://gist.github.com/dlwjiang/bb75c89a2ce92cbbd909)
