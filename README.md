@@ -69,6 +69,10 @@
 
 [Percentage-based star rating-sprite example](https://codepen.io/Bluetidepro/pen/GkpEa)
 
+[Pure CSS Masonry Layout](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.g5r8upwpy)
+
+[Creating a CSS-only Responsive Masonry](http://w3bits.com/css-masonry/)
+
 [Autocomplete](https://codepen.io/samiconductor/pen/ogcbB)
 
 [Spiral Print](https://gist.github.com/dlwjiang/bb75c89a2ce92cbbd909)
