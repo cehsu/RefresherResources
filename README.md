@@ -48,6 +48,9 @@
 [filipegoncalves](https://github.com/filipegoncalves/interview-questions/tree/master/systems_design)
 
 ##JS
+
+[js-interview-questions](https://github.com/mi-lee/js-interview-questions/blob/master/interview-questions.md)
+
 [A re-introduction to JavaScript (JS tutorial)*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -56,6 +59,10 @@
 
 
 ## Frontend Challenges/Resources
+
+[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+[front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)
 
 For practice, build these within 40mins, and build them minimally and well. Doing these with variations, or repeatedly will help you get better over time.
 
