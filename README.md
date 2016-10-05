@@ -35,6 +35,8 @@
 
 ## System Design
 
+[System Design Cheatsheet](https://gist.github.com/banunatina/3959f128a8c7d20f79807fbccdf2e8bc)
+
 [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 
 [The Solved Twitter Design](http://www.hiredintech.com/data/uploads/hiredintech_system_design_the_twitter_problem_beta.pdf)
@@ -111,6 +113,12 @@ Stoplight
 
 ##Database
 
+[PostgreSQL Exercises](https://pgexercises.com/)
+
+[essentialsql](http://www.essentialsql.com/getting-started/)
+
+[SQL Tutorial](http://sqlzoo.net/)
+
 [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
 [A Field Guide to Modern Data Stores](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=160912&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
@@ -122,3 +130,13 @@ Stoplight
 [Oracle SQL Tutorial Contents](http://www.oracle-dba-online.com/sql/oracle_sql_tutorial.htm)
 
 [SQL Tutorials and Courses](https://hackr.io/tutorials/sql)
+
+### Deep Dive
+
+[How does database indexing work?](http://stackoverflow.com/questions/1108/how-does-database-indexing-work))
+
+[How to understand an EXPLAIN ANALYZE](http://stackoverflow.com/questions/12915209/how-to-understand-an-explain-analyze)
+
+[Using EXPLAIN to Write Better MySQL Queries](https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
+
+[What every developer should know about SQL performance](http://use-the-index-luke.com/sql/table-of-contents)
