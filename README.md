@@ -55,7 +55,19 @@
 [You Don't Know JS](http://bonsaiden.github.io/JavaScript-Garden/)
 
 
-## HTML/CSS
+## Frontend Challenges/Resources
+
+For practice, build these within 40mins, and build them minimally and well. Doing these with variations, or repeatedly will help you get better over time.
+1) Drop down menu
+2) Color palette switcher
+3) carousel/gallery
+4) Infinite scroll
+5) News feed with preview text functionality(paragraphs that get shortened with [...], and expand/collapse when clicked).
+6) Medium-style 'quote' sharer. (Highlighting brings up a little menu and you can share highlighted text to twitter/social media of choice.)
+
+See if you can do these without a framework like React/Angular/etc unless they ask. Setup wastes unnecessary time and you can usually accomplish it with vanilla JS or jQuery.
+
+EDIT: Extra challenge - once built, refactor so that it can be made into a faux-library to be used by other engineers
 
 [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
 
