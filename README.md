@@ -3,6 +3,8 @@
 ## All of the above
 [Haseeb Qureshi](http://haseebq.com/)
 
+[google-interview-university](https://github.com/jwasham/google-interview-university)
+
 ## Data Structures & Algorithms
 
 [biscuits](https://github.com/banunatina/biscuits)*
@@ -89,6 +91,8 @@ EDIT: Extra challenge - once built, refactor so that it can be made into a faux-
 [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 [Reimplementing Parts of jQuery...for funsies!](https://github.com/yanarchy/yQuery)
+
+[Tic Tac Toe](https://s.codepen.io/mikejonas/debug/rLvGam)
 
 [Netflix Star Rater](http://rog.ie/blog/css-star-rater)
 
