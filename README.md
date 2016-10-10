@@ -84,6 +84,8 @@ See if you can do these without a framework like React/Angular/etc unless they a
 
 EDIT: Extra challenge - once built, refactor so that it can be made into a faux-library to be used by other engineers
 
+[learnlayout](http://learnlayout.com/)
+
 [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
 
 [Beyond jQuery](https://github.com/Beyond-jQuery/exercise)
