@@ -7,6 +7,8 @@
 
 ## Data Structures & Algorithms
 
+[algoClass](https://github.com/kuychaco/algoClass)
+
 [biscuits](https://github.com/banunatina/biscuits)*
 
 [Algorithmofanalgorithm*](https://github.com/yilenpan/algorithmofanalgorithm)
