@@ -11,6 +11,8 @@
 
 [biscuits](https://github.com/banunatina/biscuits)*
 
+[algorithms meetup](https://github.com/algorithmsmeetup?page=1)
+
 [Algorithmofanalgorithm*](https://github.com/yilenpan/algorithmofanalgorithm)
 
 [code-problems*](https://github.com/blakeembrey/code-problems)
