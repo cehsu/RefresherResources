@@ -84,6 +84,8 @@ For practice, build these within 40mins, and build them minimally and well. Doin
 
 6) Medium-style 'quote' sharer. (Highlighting brings up a little menu and you can share highlighted text to twitter/social media of choice.)
 
+7) Given a JSON endpoint that gives you items, make a dropdown menu bar.
+
 See if you can do these without a framework like React/Angular/etc unless they ask. Setup wastes unnecessary time and you can usually accomplish it with vanilla JS or jQuery.
 
 EDIT: Extra challenge - once built, refactor so that it can be made into a faux-library to be used by other engineers
