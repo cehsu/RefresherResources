@@ -86,6 +86,8 @@ For practice, build these within 40mins, and build them minimally and well. Doin
 
 7) Given a JSON endpoint that gives you items, make a dropdown menu bar.
 
+8) Given a div with an id make a hamburger menu using only CSS
+
 See if you can do these without a framework like React/Angular/etc unless they ask. Setup wastes unnecessary time and you can usually accomplish it with vanilla JS or jQuery.
 
 EDIT: Extra challenge - once built, refactor so that it can be made into a faux-library to be used by other engineers
