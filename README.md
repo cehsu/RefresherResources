@@ -183,3 +183,7 @@ Stoplight
 [Using EXPLAIN to Write Better MySQL Queries](https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
 
 [What every developer should know about SQL performance](http://use-the-index-luke.com/sql/table-of-contents)
+
+## Interview the interviewer
+
+[Engineering practices](https://gist.github.com/banunatina/aee189bcf09f39ab8cd30bc0998d998a)
