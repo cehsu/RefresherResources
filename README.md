@@ -74,7 +74,7 @@ For practice, build these within 40mins, and build them minimally and well. Doin
 
 1) Drop down menu
 
-2) Color palette switcher
+2) Color palette switcher (extend question with throttle)
 
 3) carousel/gallery
 
