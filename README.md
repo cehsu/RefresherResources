@@ -45,6 +45,8 @@
 
 [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 
+[David J Malan schooling you on scaling](https://www.youtube.com/watch?v=-W9F__D3oY4&feature=youtu.be)
+
 [The Solved Twitter Design](http://www.hiredintech.com/data/uploads/hiredintech_system_design_the_twitter_problem_beta.pdf)
 
 [HiredInTech] (http://www.hiredintech.com/system-design/)
