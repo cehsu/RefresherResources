@@ -72,6 +72,8 @@
 
 [front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)
 
+[Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.sp278cvuz)
+
 For practice, build these within 40mins, and build them minimally and well. Doing these with variations, or repeatedly will help you get better over time.
 
 1) Drop down menu
@@ -106,7 +108,11 @@ EDIT: Extra challenge - once built, refactor so that it can be made into a faux-
 
 [Reimplementing Parts of jQuery...for funsies!](https://github.com/yanarchy/yQuery)
 
-[Tic Tac Toe](https://s.codepen.io/mikejonas/debug/rLvGam)
+Tic Tac Toe
+
+[Example 1](https://s.codepen.io/mikejonas/debug/rLvGam)
+
+[Example 2](http://codepen.io/dting/pen/VKZOOw)
 
 [Netflix Star Rater](http://rog.ie/blog/css-star-rater)
 
