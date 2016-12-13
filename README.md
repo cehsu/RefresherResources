@@ -213,21 +213,38 @@ Stoplight
 [what-happens-when](https://github.com/alex/what-happens-when)
 
 ##job sites
+
 [300 easy job applications](https://github.com/j-delaney/easy-application)
+
 [Monster.com](https://www.monster.com/)
+
 [ZipRecruiter](https://www.ziprecruiter.com/jobs/browse)
+
 [Stack Overflow](jobs)
+
 [Y Combinator](https://news.ycombinator.com/jobs)
+
 [Breakout List](https://breakoutlist.com/)
+
 [Triplebyte](https://triplebyte.com/)
+
 [Cyber Coders](https://www.cybercoders.com/)
+
 [Hired](https://hired.com/)
+
 [Indeed](http://www.indeed.com/)
+
 [Glassdoor](https://www.glassdoor.com/index.htm)
+
 [Github Jobs](https://jobs.github.com/)
+
 [SmartRecruiters](https://jobs.smartrecruiters.com/)
+
 [HackerRank](https://www.hackerrank.com/domains)
+
 [White Truffle](https://www.whitetruffle.com/#!/)
+
 [Venture Loop](http://ventureloop.com/ventureloop/home.php)
+
 [Built in NYC](http://www.builtinnyc.com/)
 
