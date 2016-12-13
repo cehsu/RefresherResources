@@ -7,11 +7,11 @@
 
 ## Data Structures & Algorithms
 
-[algoClass](https://github.com/kuychaco/algoClass)
+[algoClass](https://github.com/kuychaco/algoClass)*
 
 [biscuits](https://github.com/banunatina/biscuits)*
 
-[algorithms meetup](https://github.com/algorithmsmeetup?page=1)
+[algorithms meetup](https://github.com/algorithmsmeetup?page=1)*
 
 [Algorithmofanalgorithm*](https://github.com/yilenpan/algorithmofanalgorithm)
 
