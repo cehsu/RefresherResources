@@ -193,3 +193,13 @@ Stoplight
 ## Interview the interviewer
 
 [Engineering practices](https://gist.github.com/banunatina/aee189bcf09f39ab8cd30bc0998d998a)
+
+#Similar Github Repos
+[Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
+[schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
+[SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles)
+[interview-resources](https://github.com/davidhampgonsalves/interview-resources)
+[code-problems](https://github.com/blakeembrey/code-problems)
+[InterviewThis](https://github.com/ChiperSoft/InterviewThis)
+[job_interview](https://github.com/ruby-jokes/job_interview)
+[what-happens-when](https://github.com/alex/what-happens-when)
