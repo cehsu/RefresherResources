@@ -63,7 +63,7 @@
 
 [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
-[You Don't Know JS](http://bonsaiden.github.io/JavaScript-Garden/)
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
 ## Frontend Challenges/Resources
