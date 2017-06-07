@@ -57,7 +57,7 @@
 
 [The Solved Twitter Design](http://www.hiredintech.com/data/uploads/hiredintech_system_design_the_twitter_problem_beta.pdf)
 
-[HiredInTech] (http://www.hiredintech.com/system-design/)
+[HiredInTech](http://www.hiredintech.com/system-design/)
 
 [HighScalability](http://highscalability.com/start-here/)
 
@@ -65,7 +65,7 @@
 
 [Grokking the System Design Interview - Paid](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5076324926357504/preview)
 
-##JS
+## JS
 
 [js-interview-questions](https://github.com/mi-lee/js-interview-questions/blob/master/interview-questions.md)
 
