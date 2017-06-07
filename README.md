@@ -19,17 +19,17 @@
 
 [code-problems*](https://github.com/blakeembrey/code-problems)
 
-[Interview Cake*] (https://www.interviewcake.com/)
+[Interview Cake*](https://www.interviewcake.com/)
 
 [Algorithms, Part I](https://www.coursera.org/learn/introduction-to-algorithms#)
 
-[Rosalind]	(http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
+[Rosalind](http://rosalind.info/problems/tree-view/?location=algorithmic-heights)
 
-[Interactive Python]	(http://interactivepython.org/runestone/static/pythonds/index.html)
+[Interactive Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
-[Brian Holt: Five Semesters of CS in 4 hours]	(http://btholt.github.io/four-semesters-of-cs/)
+[Brian Holt: Five Semesters of CS in 4 hours](http://btholt.github.io/four-semesters-of-cs/)
 
-[Coursera]	(https://www.coursera.org/specializations/data-structures-algorithms)
+[Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
 
 [Teach Yourself CS](https://teachyourselfcs.com/)
 
