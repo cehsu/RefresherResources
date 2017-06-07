@@ -222,7 +222,7 @@ Stoplight
 
 [what-happens-when](https://github.com/alex/what-happens-when)
 
-##job sites
+## job sites
 
 [300 easy job applications](https://github.com/j-delaney/easy-application)
 
