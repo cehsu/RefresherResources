@@ -7,6 +7,8 @@
 
 ## Data Structures & Algorithms
 
+[Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
 [algoClass](https://github.com/kuychaco/algoClass)*
 
 [biscuits](https://github.com/banunatina/biscuits)*
@@ -29,6 +31,8 @@
 
 [Coursera]	(https://www.coursera.org/specializations/data-structures-algorithms)
 
+[Teach Yourself CS](https://teachyourselfcs.com/)
+
 [Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Quicksort#JavaScript)
 
 [checkcheckzz/interview](https://github.com/checkcheckzz/interview)
@@ -40,6 +44,10 @@
 [CS in JS](https://github.com/benoitvallon/computer-science-in-javascript)
 
 ## System Design
+
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+[Teach Yourself CS](https://teachyourselfcs.com/)
 
 [System Design Cheatsheet](https://gist.github.com/banunatina/3959f128a8c7d20f79807fbccdf2e8bc)
 
@@ -54,6 +62,8 @@
 [HighScalability](http://highscalability.com/start-here/)
 
 [filipegoncalves](https://github.com/filipegoncalves/interview-questions/tree/master/systems_design)
+
+[Grokking the System Design Interview - Paid](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5076324926357504/preview)
 
 ##JS
 
