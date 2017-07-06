@@ -1,5 +1,7 @@
 # RefresherResources
 
+[We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
+
 ## All of the above
 [Haseeb Qureshi](http://haseebq.com/)
 
@@ -67,6 +69,8 @@
 
 ## JS
 
+[A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
+
 [js-interview-questions](https://github.com/mi-lee/js-interview-questions/blob/master/interview-questions.md)
 
 [A re-introduction to JavaScript (JS tutorial)*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -78,9 +82,13 @@
 
 ## Frontend Challenges/Resources
 
+[Grab Front End Guide](https://github.com/grab/front-end-guide)
+
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 [front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)
+
+[Front End Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 
 [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.sp278cvuz)
 
@@ -140,37 +148,37 @@ Tic Tac Toe
 
 [Spiral Print](https://gist.github.com/dlwjiang/bb75c89a2ce92cbbd909)
 
-[Displaying data fetched from an API] (https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/)
+[Displaying data fetched from an API](https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/)
 
 Stoplight
 
-- [Jquery Example 1] (http://fiddle.jshell.net/chrisupjohn/u9yD4/)
+- [Jquery Example 1](http://fiddle.jshell.net/chrisupjohn/u9yD4/)
 
-- [Jquery Example 2] (http://codepen.io/mostlysugar/pen/dCyib)
+- [Jquery Example 2](http://codepen.io/mostlysugar/pen/dCyib)
 
-- [Pure CSS Example] (http://codepen.io/samarkandiy/pen/JxnCF)
+- [Pure CSS Example](http://codepen.io/samarkandiy/pen/JxnCF)
 
-[Recreate the animated GIF] (https://www.sitepoint.com/challenge-1-winner/)
+[Recreate the animated GIF](https://www.sitepoint.com/challenge-1-winner/)
 
-[Jiggly Button] (https://scotch.io/bar-talk/codepen-challenge-1-css-jiggly-button)
+[Jiggly Button](https://scotch.io/bar-talk/codepen-challenge-1-css-jiggly-button)
 
-[Style Section Links] (http://webdesign.tutsplus.com/articles/codepen-challenge-1-style-section-links-with-css--cms-23527)
+[Style Section Links](http://webdesign.tutsplus.com/articles/codepen-challenge-1-style-section-links-with-css--cms-23527)
 
-[CSS 3D Cube] (https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
+[CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 
-[Drop Down Menus] (https://www.sitepoint.com/sitepoint-code-challenge-css-drop-down-menus/)
+[Drop Down Menus](https://www.sitepoint.com/sitepoint-code-challenge-css-drop-down-menus/)
 
-[Dice] (https://www.sitepoint.com/sitepoint-code-challenge-css-things-are-about-to-get-dicey/)
+[Dice](https://www.sitepoint.com/sitepoint-code-challenge-css-things-are-about-to-get-dicey/)
 
-[Flip Card] (https://www.sitepoint.com/sitepoint-code-challenge-css-flip-a-card/)
+[Flip Card](https://www.sitepoint.com/sitepoint-code-challenge-css-flip-a-card/)
 
-[100 DAYS CSS CHALLENGE] (http://100dayscss.com/)
+[100 DAYS CSS CHALLENGE](http://100dayscss.com/)
 
-[Interview Questions and Exercises About CSS] (https://css-tricks.com/interview-questions-css/)
+[Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 
 [Awesome CSS Demos](http://codepen.io/jaymaymo/pen/QNEgjr)
 
-##Database
+## Database
 
 [PostgreSQL Exercises](https://pgexercises.com/)
 
@@ -204,7 +212,7 @@ Stoplight
 
 [Engineering practices](https://gist.github.com/banunatina/aee189bcf09f39ab8cd30bc0998d998a)
 
-#Similar Github Repos
+# Similar Github Repos
 
 [Everything you need to kick ass on your coding interview](https://github.com/andreis/interview)
 
